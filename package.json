@@ -1,0 +1,24 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "app for optimaize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolgiDeveloper/imageShrink.git"
+  },
+  "author": "Mohammad Solgi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SolgiDeveloper/imageShrink/issues"
+  },
+  "homepage": "https://github.com/SolgiDeveloper/imageShrink#readme",
+  "devDependencies": {
+    "electron": "^16.0.5",
+    "nodemon": "^2.0.15"
+  }
+}
