@@ -6,7 +6,7 @@ npm run start
 or
 npm run dev  ===> no need to refresh the terminal any more with heip of nodmone;)
 
-#production
+# production
 npm run package-mac
 or
 npm run package-win
